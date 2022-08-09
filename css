@@ -1,0 +1,42 @@
+<html>
+
+<head>
+<title>Nature</title>
+<style>
+body {
+  background-color: lightblue;
+}
+p.one {
+  border-style: solid;
+  border-color: red;
+}
+p.italic {
+  font-style: italic;
+}
+
+.p1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+p.solid {border-style: solid;}
+p.solid {outline-style: solid;}
+<title>Nature</title>
+</style>
+</head>
+
+<body>
+<div class="NATURE-container NATURE-green">
+ <h1>NATURE</h1>
+  
+</div>
+
+<img src="https://thumbs.dreamstime.com/z/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg" alt="Nature" style="width:450px;height:auto;">
+
+
+
+<p class="italic"><b>Nature is the art of god</p>
+<p class="p1">Nature includes living and non-living components that together make life on Earth possible. Some forms of nature can be seen through the lush green forests, the vast sky above us, the oceans without an end, the mountains standing tall and so on. Nature nourishes the survival needs of plants, animals and humans alike.</p>
+
+
+
+</body>
+</html>
